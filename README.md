@@ -1,4 +1,4 @@
-# Gravity Shift
+# Gravity Shift 🤖
 
 A simple 2D platformer prototype built with **Godot 4** and **GDScript**, created primarily to practice and experiment with the engine's physics, custom gravity-inversion mechanics, and procedural level generation.
 
